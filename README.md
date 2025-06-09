@@ -57,13 +57,8 @@ Open `Sentiment.ipynb` in Google Colab and execute the cells.
 
 ---
 
-## 📊 Visualizations
 
-### Sentiment Distribution
-![Sentiment Distribution](path/to/image.png)
 
-### Word Cloud of Reviews
-![Word Cloud](path/to/image.png)
 
 ---
 
@@ -98,8 +93,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 **Evan Habibani**
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/evan-habibani)
-- 🐙 [GitHub](https://github.com/evan-habibani)
+- 🌐 [LinkedIn](www.linkedin.com/in/evanhabibani)
+- 🐙 [GitHub](https://github.com/evanmayur)
 
 ---
 
